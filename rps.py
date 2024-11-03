@@ -17,3 +17,4 @@ elif(rc==2 and user==1):
     print("System  is the winner")
 else:
     print("Give the correct input")
+print("Nice Program")
